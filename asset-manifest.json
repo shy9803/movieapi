@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieapi/static/css/main.db14b707.css",
+    "main.js": "/movieapi/static/js/main.4610e5cd.js",
+    "index.html": "/movieapi/index.html",
+    "main.db14b707.css.map": "/movieapi/static/css/main.db14b707.css.map",
+    "main.4610e5cd.js.map": "/movieapi/static/js/main.4610e5cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db14b707.css",
+    "static/js/main.4610e5cd.js"
+  ]
+}
